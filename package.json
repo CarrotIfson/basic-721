@@ -1,0 +1,29 @@
+{
+  "name": "basic-721",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network",
+    "verify": "hardhat verify --network",
+    "compile": "hardhat compile", 
+    "clean": "hardhat clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarrotIfson/basic-721.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarrotIfson/basic-721/issues"
+  },
+  "homepage": "https://github.com/CarrotIfson/basic-721#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "dotenv": "^16.0.1",
+    "hardhat": "^2.10.2"
+  }
+}

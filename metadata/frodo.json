@@ -1,0 +1,22 @@
+{
+    "name" : "Frodo",
+    "description" : "The Ring Bearer",
+    "image" : "https://ipfs.io/ipfs/QmYcLdC9Ed3z5VNXZoMUVBzSPZhCPR8HCigsNs8KtEuNgP",
+    "attributes": [
+        {
+            "trait_type": "Loyalty",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Courage",
+            "value": 7,
+            "max_value": 10
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name" : "Samwise",
+    "description" : "The Ring Bearer trusty companion",
+    "image" : "https://ipfs.io/ipfs/QmX4DLu8fuTcrDc9uRK8otkCcuoTkQeqAVrZdN9btz44HZ",
+    "attributes": [
+        {
+            "trait_type": "Loyalty",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Wisdom",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Courage",
+            "value": 10,
+            "max_value": 10
+        }
+    ]
+}
